@@ -7,8 +7,8 @@ from email import encoders
 import os
 
 # Replace with your email credentials
-sender_email = "muhd.akram1024@gmail.com"
-password = "347368919"
+sender_email = "your-email@gmail.com"
+password = "your-password"
 subject = "Internship Application"
 
 # Read the email list from the file
