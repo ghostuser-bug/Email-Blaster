@@ -40,7 +40,7 @@ pip install smtplib ssl email
 
 1️⃣ **Clone the repository**  
 ```sh
-git clone https://github.com/yourusername/bulk-email-sender.git  
+git clone https://github.com/ghostuser-bug/Email-Blaster.git
 cd bulk-email-sender  
 ```
 
