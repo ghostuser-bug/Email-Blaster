@@ -31,7 +31,7 @@ pip install smtplib ssl email
 ├── mail.txt         # List of recipient email addresses (one per line)  
 ├── letter.txt       # Cover letter content (plain text)  
 ├── resume.pdf       # Your resume (PDF format)  
-└── send_email.py    # Python script to send emails  
+└── send.py          # Python script to send emails  
 ```
 
 ---
@@ -44,7 +44,7 @@ git clone https://github.com/yourusername/bulk-email-sender.git
 cd bulk-email-sender  
 ```
 
-2️⃣ **Edit your email credentials** in `send_email.py`  
+2️⃣ **Edit your email credentials** in `send.py`  
 Replace:  
 ```python
 sender_email = "your-email@gmail.com"
