@@ -59,7 +59,7 @@ password = "your-password"
 
 4️⃣ **Run the script**  
 ```sh
-python send_email.py
+python send.py
 ```
 
 ✅ The script will send emails and display success or failure messages.  
