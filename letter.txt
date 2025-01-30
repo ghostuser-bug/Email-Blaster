@@ -1,14 +1,17 @@
-Dear Sir/Madam,
+Dear Sir/Madam,  
 
-I hope this message finds you well.
+I hope this message finds you well.  
 
-My name is MUHAMMAD AKRAM BIN ADENAN (Student ID: 52103322180), and I am currently enrolled in the Diploma in Networking Technology program at Universiti Kuala Lumpur. I am writing to follow up on my previous application for industrial training with your organization.
-I would like to confirm my interest in carrying out my industrial training at your esteemed company for a period of 18 weeks, starting from 03/03/2025 to 04/07/2025. If you have already reviewed my application, I kindly ask that you proceed by accepting or declining my request via the following link: https://ecitie2.unikl.edu.my/
-Should you require any further information, please do not hesitate to contact me.
-Thank you for your time and consideration, and I look forward to your response.
+I am currently enrolled in the [Your Program Name] program at [Your University Name] and would like to follow up on my previous application for industrial training with your organization.  
 
-Best regards,  
-MUHAMMAD AKRAM BIN ADENAN  
-Diploma in Networking Technology  
-Universiti Kuala Lumpur  
-Student ID: 52103322180  
+I would like to confirm my interest in carrying out my industrial training at your esteemed company for a period of [Training Duration], starting from [Start Date] to [End Date]. If you have already reviewed my application, I kindly ask that you proceed by accepting or declining my request via the following link: [Application Portal Link].  
+
+Should you require any further information, please do not hesitate to contact me.  
+
+Thank you for your time and consideration, and I look forward to your response.  
+
+**Best regards,**  
+[Your Name]  
+[Your Program Name]  
+[Your University Name]  
+Student ID: [Your Student ID]  
