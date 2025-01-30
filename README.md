@@ -41,7 +41,7 @@ pip install smtplib ssl email
 1️⃣ **Clone the repository**  
 ```sh
 git clone https://github.com/ghostuser-bug/Email-Blaster.git
-cd bulk-email-sender  
+cd Email-Blaster
 ```
 
 2️⃣ **Edit your email credentials** in `send.py`  
