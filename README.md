@@ -69,7 +69,7 @@ python send.py
 ## ⚠ Important Notes  
 - If you're using **Gmail**, enable [App Passwords](https://myaccount.google.com/apppasswords) instead of using your real password.  
 - Ensure your email provider allows SMTP access.  
-- Don't share your credentials in public repositories!  
+- Ensure 2 Factor Authentication is enable in your email account! 
 
 ---
 
